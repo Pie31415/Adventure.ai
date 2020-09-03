@@ -5,4 +5,4 @@ An attempt at an automated adventure.
 `python main.py`
 
 # More Details
-[Devpost Page](devpost.com/software/adventure-ai)
+[Devpost Page](https://devpost.com/software/adventure-ai)
